@@ -1,0 +1,210 @@
+
+.bsk-pro-tips-box {
+    font-size: 12px;
+    border: 1px solid #00abff;
+    display: block;
+    padding: 5px;
+	margin: 10px 0 10px 0;
+    background: #e5f3f9;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.bsk-pro-tips-box a{
+	text-decoration:none;
+	color:#ff5b00;
+	padding-left:10px;
+}
+
+.cf7-blacklist-admin-label{
+	display: inline-block;
+	width: 150px;
+}
+
+.cf7-blacklist-edit-list-container{
+	margin-top:40px !important;
+}
+
+.cf7-blacklist-add-item-input,
+.cf7-blacklist-add-list-input{
+	display: inline-block;
+	width: 65% !important;
+}
+
+.cf7-blacklist-action-anchor{
+	margin-left: 10px;
+    padding: 4px 8px;
+    text-decoration: none;
+    border: none;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background: #f7f7f7;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #0073aa;
+    cursor: pointer;
+    outline: 0;
+}
+
+.cf7-blacklist-action-anchor-first{
+	margin-left: 0px;
+}
+
+.cf7-blacklist-anchor-disabled,
+.cf7-blacklist-anchor-disabled:hover{
+    color: #9F9F9F;
+}
+
+.cf7-blacklist-edit-list-container,
+.cf7-blacklist-edit-item-container{
+	border: 1px solid #DFDFDF; 
+	margin: 4px 15px 0 0; 
+	padding: 20px; 
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.cf7-blacklist-form-list-type-lists-selector{
+	width: 85%;
+}
+
+.cf7-blacklist-form-list-type-selector-ajax-loader-span,
+.cf7-blacklist-apply-to-form-list-save-ajax-loader-span{
+	margin-left:10px;
+	display:none;
+}
+
+.cf7-blacklist-bsk-prdoucts {
+	-webkit-box-shadow:  -1px 1px 2px -2px rgba(0, 0, 0, 0.5);
+	box-shadow:  -1px 1px 2px -2px rgba(0, 0, 0, 0.5);
+	overflow: hidden;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	padding: 20px 20px;
+	border: 1px solid #DFDFDF;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.cf7-blacklist-bsk-prdoucts-single{
+	width: 31%;
+	padding: 10px;
+	-webkit-box-shadow:  -1px 1px 2px -2px rgba(0, 0, 0, 0.5);
+	box-shadow:  -1px 1px 6px -2px rgba(0, 0, 0, 0.5);
+	background:#FFFFFF;
+	overflow: hidden;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+    
+    float: left;
+    margin-left: 15px;
+}
+
+.cf7-blacklist-bsk-prdoucts-content{
+    height: 350px;
+}
+
+.cf7-blacklist-bsk-prdoucts-content h4{
+    text-align: center;
+}
+
+.cf7-blacklist-bsk-prdoucts-first{
+    margin-left: 0;
+}
+
+.cf7-blacklist-bsk-prdoucts-single h3,
+.cf7-blacklist-bsk-prdoucts-single-center{
+	text-align:center;
+}
+
+.cf7-blacklist-bsk-prdoucts-single-link-button{
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+
+/* Items Search */
+.cf7-blacklist-edit-item-container .search-box{
+    width: 40%;
+}
+
+#cf7-blacklist-items-serch-search-input{
+    width: 70%;
+    float: right;
+}
+
+#search-submit{
+    float: right;
+}
+
+/*
+  * Form mapping
+  */
+
+
+/* 
+  * Help  - for othe product 
+  */
+#cf7_blacklist_help_tab_content_wrap_ID{
+	padding:22px;
+	background: #fff;
+	border:1px solid #ccc;
+	border-top:0px;
+}
+
+#cf7_blacklist_help_tab_content_wrap_ID section{
+	display: none;
+}
+
+#cf7_blacklist_help_tab_content_wrap_ID setion:first-child{
+	display: block;
+}
+
+.no-js h2.nav-tab-wrapper {
+	display:none;
+}
+
+.no-js #cf7_blacklist_help_tab_content_wrap_ID{
+	border-top:1px solid #ccc;
+	margin-top:22px;
+}
+
+.no-js #cf7_blacklist_help_tab_content_wrap_ID section{
+	border-top: 1px dashed #aaa;
+	margin-top:22px;
+	padding-top:22px;
+}
+
+.no-js #cf7_blacklist_help_tab_content_wrap_ID section:first-child{
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+
+.bsk-prdoucts-single{
+	width: 90%;
+	padding: 10px;
+	-webkit-box-shadow:  -1px 1px 6px -1px rgba(0, 0, 0, 0.5);
+	box-shadow:  -1px 1px 6px -1px rgba(0, 0, 0, 0.5);
+	background:#FFFFFF;
+	overflow: hidden;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	margin-left: 4%;
+}
+
+.bsk-prdoucts-single-first{
+	margin-left: 0px;
+}
+
+.bsk-prdoucts-single h3,
+.bsk-prdoucts-single-center{
+	text-align:center;
+}
+
+.bsk-prdoucts-single-link-button{
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
